@@ -5,3 +5,4 @@ For mobile phones on the Android operating system.
 Written in Java
 
 ![Screenshot](https://github.com/AdamRain94/calculator/blob/main/img/Screenshot.jpg)
+![Screenshot](https://github.com/AdamRain94/calculator/blob/main/img/Screenshot_1.jpg)
